@@ -1,2 +1,3 @@
 # hola-mundo
-github guide
+
+Repositorio creado para aprender como usar GitHub segun su guía.
